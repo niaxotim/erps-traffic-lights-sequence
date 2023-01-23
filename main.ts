@@ -1,1 +1,3 @@
-//No code
+/**
+ * No code
+ */
